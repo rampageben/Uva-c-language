@@ -1,2 +1,6 @@
 # Uva-c-language
-1.uva100
+I already did  
+1.uva00100  
+2.uva00272  
+3.uva00490  
+
